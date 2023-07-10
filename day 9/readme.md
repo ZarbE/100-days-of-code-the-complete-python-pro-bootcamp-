@@ -1,11 +1,11 @@
-**Day 9 - Dictionaries, Nesting and the Secret Auction**
+# Day 9 - Dictionaries, Nesting and the Secret Auction
 
-Concepts
+## Concepts
 
-The Python Dictionary
-Nesting Lists and Dictionaries
+- The Python Dictionary
+- Nesting Lists and Dictionaries
 
-The Secret Auction Program
+## The Secret Auction Program
 
 This repository contains a Python program for a blind auction. In a blind auction, participants submit their bids without knowing the bids of other participants. This program simulates a blind auction, where participants can enter their names and bid amounts, and at the end, the highest bidder is determined.
 
