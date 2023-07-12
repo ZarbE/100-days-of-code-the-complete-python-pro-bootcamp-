@@ -6,7 +6,7 @@
 - Combining Dictionaries and Functions
 - Print vs. Return
 - While Loops, Flags and Recursion
-- 
+  
 ## Calculator
 
 https://replit.com/@ZarbE/calculator-start-1?v=1
